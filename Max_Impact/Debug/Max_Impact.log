@@ -1,2 +1,7 @@
 ﻿  main.cpp
+d:\em\project\max_impact\max_impact\main.cpp(85): warning C4018: “<”: 有符号/无符号不匹配
+d:\em\project\max_impact\max_impact\main.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+d:\em\project\max_impact\max_impact\main.cpp(158): warning C4018: “<”: 有符号/无符号不匹配
+d:\em\project\max_impact\max_impact\main.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+d:\em\project\max_impact\max_impact\main.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
   Max_Impact.vcxproj -> D:\em\project\Max_Impact\Debug\Max_Impact.exe
